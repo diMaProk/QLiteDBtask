@@ -1,0 +1,30 @@
+
+Query number: 1
+SELECT * FROM spr_Model;
+Result of execusion:
+1 | Vito | Вито | 
+2 | Sprinter | Спринтер | 
+3 | RX35 | RX35 | 
+4 | Q7 | Q7 | 
+5 | A6 | A6 | 
+6 | X6 | X6 | 
+7 | X5 | X5 | 
+8 | Golf | Гольф | 
+9 | Passat | Пассат | 
+10 | Forester | Форестер | 
+11 | Outback | Аутбек | 
+12 | Land Cruiser | Ленд Крузер | 
+13 | RAW 4 | РАВ 4 | 
+
+Query number: 2
+SELECT * FROM spr_Brand;
+Result of execusion:
+1 | Lexus | Лексус | 
+2 | Audi | Ауди | 
+3 | Mersedes | Мерседес | 
+4 | WV | Фольксваген | 
+5 | Subaru | Субару | 
+6 | BMW | БМВ | 
+7 | Toyota | Тойота | 
+8 | Nissan | Ниссан | 
+12 | Ferrari | Ферари | 

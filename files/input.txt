@@ -1,0 +1,7 @@
+sqlite:files/CarShop.db
+
+SELECT * 
+FROM spr_Model;
+
+SELECT * 
+FROM spr_Brand;

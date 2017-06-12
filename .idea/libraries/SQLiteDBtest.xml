@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SQLiteDBtest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SQLiteDBtest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
